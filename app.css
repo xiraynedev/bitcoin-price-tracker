@@ -9,11 +9,11 @@
   }
   
   body {
-    background: linear-gradient(to right, white, black)
+    background: linear-gradient(to right, white, black);
+    width: 100vw;
   }
   
   div {
     position: relative;
-    width: 100vw;
   }
   
