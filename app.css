@@ -1,0 +1,18 @@
+.btn {
+    border-radius: 50px;
+    background-color: #eee;
+    color: red;
+  }
+  
+  h1 {
+    color: #990000;
+  }
+  
+  body {
+    background: linear-gradient(to right, white, black)
+  }
+  
+  div {
+    position: relative;
+  }
+  
